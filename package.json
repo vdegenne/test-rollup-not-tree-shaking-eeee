@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"scripts": {
+		"build": "rollup -c"
+	},
+	"devDependencies": {
+		"@material/material-color-utilities": "^0.2.7",
+		"@rollup/plugin-node-resolve": "^15.2.3",
+		"rollup": "^4.9.1"
+	}
+}
